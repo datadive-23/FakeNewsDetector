@@ -3,7 +3,7 @@
 You will find the attached zip file which consists of following 04 files :
 
     1.) solution_FakeNewsDetector.ipynb  (jupyter notebook) , Or  
-    2.) solution_FakeNewsDetector.html (HTML file of the same notebook
+    2.) solution_FakeNewsDetector.html (HTML file of the same notebook)
     3.) test.csv (provided test set)
     4.) Submission.csv (predictions or the final output on the given test data "test.csv")
   
